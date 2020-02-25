@@ -1,5 +1,3 @@
-use std::mem;
-
 pub fn quick_sort(array: &mut[i32]) {
 	_quick_sort(array, 0, array.len()-1);
 }
