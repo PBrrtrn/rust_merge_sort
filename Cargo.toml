@@ -1,5 +1,5 @@
 [package]
-name = "merge_sort"
+name = "rust_sorts"
 version = "0.1.0"
 authors = ["Pablo <berrotaran.p@gmail.com>"]
 edition = "2018"
